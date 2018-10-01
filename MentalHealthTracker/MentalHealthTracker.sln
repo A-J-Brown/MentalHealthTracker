@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker", "MentalHealthTracker\MentalHealthTracker.csproj", "{F1ACBEFD-F176-4541-945C-11A1E3466B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Tests", "MentalHealthTracker.Tests\MentalHealthTracker.Tests.csproj", "{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Api", "MentalHealthTracker.Api\MentalHealthTracker.Api.csproj", "{BF69CD51-BDC5-461F-BA64-2010C6FC7526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Domain", "MentalHealthTracker.Domain\MentalHealthTracker.Domain.csproj", "{B7D38AFD-509E-4072-8128-B351224F8056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ACBEFD-F176-4541-945C-11A1E3466B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ACBEFD-F176-4541-945C-11A1E3466B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ACBEFD-F176-4541-945C-11A1E3466B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ACBEFD-F176-4541-945C-11A1E3466B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF69CD51-BDC5-461F-BA64-2010C6FC7526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF69CD51-BDC5-461F-BA64-2010C6FC7526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF69CD51-BDC5-461F-BA64-2010C6FC7526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF69CD51-BDC5-461F-BA64-2010C6FC7526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D38AFD-509E-4072-8128-B351224F8056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D38AFD-509E-4072-8128-B351224F8056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D38AFD-509E-4072-8128-B351224F8056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D38AFD-509E-4072-8128-B351224F8056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA48E56-6694-4B1C-BE56-F8FE37523EBE}
+	EndGlobalSection
+EndGlobal

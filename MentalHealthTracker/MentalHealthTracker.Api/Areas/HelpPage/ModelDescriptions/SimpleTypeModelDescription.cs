@@ -1,0 +1,6 @@
+namespace MentalHealthTracker.Api.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
