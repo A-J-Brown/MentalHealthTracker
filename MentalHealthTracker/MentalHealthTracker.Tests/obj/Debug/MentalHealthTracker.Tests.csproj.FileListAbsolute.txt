@@ -1,0 +1,2 @@
+C:\Users\alekj\Documents\AdvanceCSharp\MentalHealthTracker\MentalHealthTracker\MentalHealthTracker.Tests\obj\Debug\MentalHealthTracker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alekj\Documents\AdvanceCSharp\MentalHealthTracker\MentalHealthTracker\MentalHealthTracker.Tests\obj\Debug\MentalHealthTracker.Tests.csproj.CoreCompileInputs.cache

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2003
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker", "MentalHealthTracker\MentalHealthTracker.csproj", "{F1ACBEFD-F176-4541-945C-11A1E3466B40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Web", "MentalHealthTracker\MentalHealthTracker.Web.csproj", "{F1ACBEFD-F176-4541-945C-11A1E3466B40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Tests", "MentalHealthTracker.Tests\MentalHealthTracker.Tests.csproj", "{A682AA4A-85CE-4C2E-8089-0BBEEAA3C979}"
 EndProject
