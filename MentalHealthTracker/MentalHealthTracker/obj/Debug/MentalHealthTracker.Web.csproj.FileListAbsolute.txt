@@ -1,0 +1,1 @@
+C:\Users\alekj\Documents\AdvanceCSharp\MentalHealthTracker\MentalHealthTracker\MentalHealthTracker\obj\Debug\MentalHealthTracker.Web.csproj.CoreCompileInputs.cache
