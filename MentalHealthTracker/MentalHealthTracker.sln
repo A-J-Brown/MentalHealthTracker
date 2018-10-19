@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Api", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Domain", "MentalHealthTracker.Domain\MentalHealthTracker.Domain.csproj", "{B7D38AFD-509E-4072-8128-B351224F8056}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Share", "MentalHealthTracker.Share\MentalHealthTracker.Share.csproj", "{DCC53BDA-4172-4D5C-B32C-CC83C101E9F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B7D38AFD-509E-4072-8128-B351224F8056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7D38AFD-509E-4072-8128-B351224F8056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7D38AFD-509E-4072-8128-B351224F8056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC53BDA-4172-4D5C-B32C-CC83C101E9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC53BDA-4172-4D5C-B32C-CC83C101E9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC53BDA-4172-4D5C-B32C-CC83C101E9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC53BDA-4172-4D5C-B32C-CC83C101E9F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
