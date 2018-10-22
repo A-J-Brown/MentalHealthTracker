@@ -1,0 +1,12 @@
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll.config
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.pdb
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.dll
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.xml
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csprojAssemblyReference.cache
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CopyComplete
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.dll
+C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.pdb
