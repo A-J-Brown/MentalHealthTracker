@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Entry.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="MentalContext.cs" />
     <Compile Include="Migrations\Configuration.cs" />

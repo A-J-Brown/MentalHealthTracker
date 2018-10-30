@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Web", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Api", "MentalHealthTracker.Api\MentalHealthTracker.Api.csproj", "{97BC65BB-B52D-4628-983B-BB0BD7A08DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracket.Shared", "MentalHealthTracket.Shared\MentalHealthTracket.Shared.csproj", "{9A0AF3DC-F717-4372-BA71-4DFF825C3027}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Shared", "MentalHealthTracket.Shared\MentalHealthTracker.Shared.csproj", "{9A0AF3DC-F717-4372-BA71-4DFF825C3027}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentalHealthTracker.Domain", "MentalHealthTracker.Domain\MentalHealthTracker.Domain.csproj", "{1F0FFC22-E61B-4F4B-A03F-9C284464CEE5}"
 EndProject
