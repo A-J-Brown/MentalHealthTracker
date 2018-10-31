@@ -10,3 +10,15 @@ C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web
 C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CopyComplete
 C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.dll
 C:\Users\alekj\Documents\c# advanced\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.pdb
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll.config
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.pdb
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csprojAssemblyReference.cache
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CopyComplete
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.dll
+C:\Users\Christina\Documents\Christina\C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.pdb
