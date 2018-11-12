@@ -51,12 +51,21 @@
     <Compile Include="Entities\Entry.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="MentalContext.cs" />
+    <Compile Include="Migrations\201811070047362_InitialDatabaseCreationWithEntriesAndUsers.cs" />
+    <Compile Include="Migrations\201811070047362_InitialDatabaseCreationWithEntriesAndUsers.Designer.cs">
+      <DependentUpon>201811070047362_InitialDatabaseCreationWithEntriesAndUsers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201811070047362_InitialDatabaseCreationWithEntriesAndUsers.resx">
+      <DependentUpon>201811070047362_InitialDatabaseCreationWithEntriesAndUsers.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

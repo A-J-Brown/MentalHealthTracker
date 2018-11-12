@@ -23,7 +23,7 @@ namespace MentalHealthTracker.Api.Controllers
             var users = await _mentalHealthContext.Users.Select(x => new UserModel
             {
                 UserId = x.UserId,
-                Username = x.Username,
+                Email = x.Email,
                 Password = x.Password,
                 FirstName = x.FirstName,
                 LastName = x.LastName
