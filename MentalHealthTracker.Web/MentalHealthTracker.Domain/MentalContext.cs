@@ -3,9 +3,9 @@ using MentalHealthTracker.Domain.Entities;
 
 namespace MentalHealthTracker.Domain
 {
-    class MentalContext : DbContext
+    public class MentalContext : DbContext
     {
-        public DbSet<Entry> Students { get; set; }
-        public DbSet<User> Addresses { get; set; }
+        public DbSet<Entry> Entries { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

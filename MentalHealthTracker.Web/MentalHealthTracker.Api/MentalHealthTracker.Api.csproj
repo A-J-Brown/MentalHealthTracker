@@ -135,6 +135,16 @@
     <Folder Include="Views\Entry\" />
     <Folder Include="Views\User\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MentalHealthTracker.Domain\MentalHealthTracker.Domain.csproj">
+      <Project>{1F0FFC22-E61B-4F4B-A03F-9C284464CEE5}</Project>
+      <Name>MentalHealthTracker.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MentalHealthTracket.Shared\MentalHealthTracker.Shared.csproj">
+      <Project>{9A0AF3DC-F717-4372-BA71-4DFF825C3027}</Project>
+      <Name>MentalHealthTracker.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

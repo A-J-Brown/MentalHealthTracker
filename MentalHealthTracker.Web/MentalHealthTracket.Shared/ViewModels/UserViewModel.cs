@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace MentalHealthTracker.Api.Models
+namespace MentalHealthTracket.Shared.ViewModels
 {
-    public class UserModel
+    public class UserViewModel
     {
         public Guid UserId { get; set; }
         public string Email { get; set; }
