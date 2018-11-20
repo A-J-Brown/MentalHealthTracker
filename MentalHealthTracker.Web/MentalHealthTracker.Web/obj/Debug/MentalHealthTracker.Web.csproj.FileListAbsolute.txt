@@ -302,3 +302,9 @@ C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\Ment
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\obj\Debug\MentalHealthTracker.Web.dll
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\obj\Debug\MentalHealthTracker.Web.pdb
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\obj\Debug\MentalHealthTracker.Web.csprojAssemblyReference.cache
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracker.Domain.dll
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracket.Shared.dll
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracker.Domain.pdb
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracker.Domain.dll.config
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracket.Shared.pdb
+C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Web\bin\MentalHealthTracket.Shared.dll.config

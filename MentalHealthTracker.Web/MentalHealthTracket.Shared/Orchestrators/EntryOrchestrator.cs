@@ -37,6 +37,8 @@ namespace MentalHealthTracket.Shared.Orchestrators
         {
             _mentalContext.Entries.Add(new Entry
             {
+                EntryId = Guid.NewGuid(),
+                Date = DateTime.Now,
                 Journal = entry.Journal,
                 Medication = entry.Medication,
                 Mood = entry.Mood
