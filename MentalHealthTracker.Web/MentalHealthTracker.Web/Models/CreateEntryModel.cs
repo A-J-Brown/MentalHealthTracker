@@ -7,8 +7,8 @@ namespace MentalHealthTracker.Web.Models
     {
         public Guid EntryId { get; set; }
         public DateTime? Date { get; set; }
-        public String Journal { get; set; }
-        public String Medication { get; set; }
+        public string Journal { get; set; }
+        public string Medication { get; set; }
         public Moods Mood { get; set; }
     }
 }

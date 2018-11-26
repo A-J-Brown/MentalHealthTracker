@@ -1,0 +1,50 @@
+﻿@model MentalHealthTracker.Web.Models.EntryDisplayModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+		<h2>Entries</h2>
+		<div class="table-responsive">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th>Date</th>
+						<th>Mood</th>
+						<th>Journal</th>
+						<th>Medication</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var entry in Model.Entries)
+					{
+						<tr>
+							<td>
+								@entry.DateString
+							</td>
+							<td>
+								@entry.Mood
+							</td>
+							<td>
+								@entry.Journal
+							</td>
+							<td>
+								@entry.Medication
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+
+    </div>
+</body>
+</html>
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

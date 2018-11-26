@@ -1,0 +1,48 @@
+﻿@model MentalHealthTracker.Web.Models.CreateEntryModel
+
+	<!DOCTYPE html>
+
+	<html>
+	<head>
+		<meta name="viewport" content="width=device-width" />
+		<title>Create</title>
+	</head>
+	<body>
+		<div>
+			<form>
+				<div class="row">
+					<div class="col-md-6">
+						@Html.LabelFor(model => model.Mood)
+					</div>
+					<div class="col-md-6">
+						@Html.EnumDropDownListFor(model => model.Mood)
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						@Html.LabelFor(model => model.Journal)
+					</div>
+					<div class="col-md-6">
+						@Html.TextAreaFor(model => model.Journal)
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						@Html.LabelFor(model => model.Medication)
+					</div>
+					<div class="col-md-6">
+						@Html.EditorFor(model => model.Medication)
+					</div>
+				</div>
+				<div class="col-md-3">
+					<button class="btn btn-secondary" type="submit">Save</button>
+				</div>
+			</form>
+		</div>
+	</body>
+</html>
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
