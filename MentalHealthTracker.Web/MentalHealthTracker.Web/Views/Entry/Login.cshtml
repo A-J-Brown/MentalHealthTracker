@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mental Health Tracker</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/Content/mental_health_tracker.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <img src="images/mental_health_tracker.jpg" alt="Health Tracker Image" height="150px" width="150px" style="float: left;">
+        <form style="float: right;">
+            Username: <input type="text" name="Username"><br />
+            Password: <input type="password" name="Password"><br />
+            <button id="loginButton" type="submit" class="button" onclick="">Login</button>
+            <button id="registerUserButton" type="submit" class="button" onclick="">Register</button>
+        </form>
+        <h2>Mental Health Tracker</h2>
+    </header>
+
+    <section>
+        <nav>
+            <ul>
+                <li><a href="@Url.Action("Index", "Entry")">View Overview of Entries</a></li>
+                <li><a href="@Url.Action("Create", "Entry")">Edit Entry for Today</a></li>
+                <li><a href="@Url.Action("Statistics", "Entry")">Statistics</a></li>
+            </ul>
+        </nav>
+
+        <article>
+            <h1>WELCOME! Please sign in.</h1>
+            <p>This project was the brain child of the below developers. What started as an attempt to get our own mental health under control turned into a class project that could be very useful in day to day lives.</p>
+            <p>Give it a try!</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>This site brought to you by: Christina Buchwald, Alek Brown, Zachary Hayes, James Robbins, Thomas Strutt</p>
+    </footer>
+
+</body>
+</html>
