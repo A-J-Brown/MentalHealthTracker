@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Mental Health Tracker</title>
@@ -16,13 +15,14 @@
 </head>
 <body>
     <header>
-        <img src="../images/mental_health_tracker.jpg" alt="Health Tracker Image" height="150px" width="150px" style="float: left;">
+        <img src="images/mental_health_tracker.jpg" alt="Health Tracker Image" height="150px" width="150px" style="float: left;">
         <form style="float: right;">
             <h1>Welcome <span id="playerName"></span>!</h1>
             <a class="logout" href="@Url.Action("Login", "Entry")">Log Out</a>
         </form>
         <h2>Mental Health Tracker</h2>
     </header>
+
     <section>
         <nav>
             <ul>
@@ -31,41 +31,23 @@
                 <li><a href="@Url.Action("Statistics", "Entry")">Statistics</a></li>
             </ul>
         </nav>
-        <table>
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Mood</th>
-                    <th>Journal</th>
-                    <th>Medication</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var entry in Model.Entries)
-                {
-                    <tr>
-                        <td>
-                            @entry.DateString
-                        </td>
-                        <td>
-                            @entry.Mood
-                        </td>
-                        <td>
-                            @entry.Journal
-                        </td>
-                        <td>
-                            @entry.Medication
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
+
+        <article>
+            <label>Average Mood: <span id="averageMood"></span></label><br />
+            <label>Best Mood: <span id="bestMood"></span></label><br />
+            <label>Worst Mood: <span id="worstMood"></span></label><br />
+            <label>Average Mood This Week: <span id="averageMoodWeek"></span></label><br />
+            <label>Best Mood This Week: <span id="bestMoodWeek"></span></label><br />
+            <label>Worst Mood This Week: <span id="worstMoodWeek"></span></label><br />
+            <label>Average Mood This Month: <span id="averageMoodMonth"></span></label><br />
+            <label>Best Mood This Month: <span id="bestMoodMonth"></span></label><br />
+            <label>Worst Mood This Month: <span id="worstMoodMonth"></span></label><br />
+        </article>
     </section>
+
     <footer>
         <p>This site brought to you by: Christina Buchwald, Alek Brown, Zachary Hayes, James Robbins, Thomas Strutt</p>
     </footer>
+
 </body>
 </html>
-
-<script src="~/Scripts/jquery-3.3.1.min.js"></script>
-<script src="~/Scripts/bootstrap.min.js"></script>

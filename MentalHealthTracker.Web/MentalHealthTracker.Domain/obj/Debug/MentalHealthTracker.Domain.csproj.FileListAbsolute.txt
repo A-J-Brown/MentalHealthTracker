@@ -36,3 +36,17 @@ C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\Ment
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.pdb
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.Migrations.InitialDatabaseCreationWithEntriesAndUsers.resources
 C:\Users\zacha\Google Drive\Documents\DMACC\Advanced C#\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.GenerateResource.cache
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll.config
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.dll
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\MentalHealthTracker.Domain.pdb
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csprojAssemblyReference.cache
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.Migrations.InitialDatabaseCreationWithEntriesAndUsers.resources
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.GenerateResource.cache
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.csproj.CopyComplete
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.dll
+C:\Users\Christina\source\repos\MentalHealthTracker\MentalHealthTracker.Web\MentalHealthTracker.Domain\obj\Debug\MentalHealthTracker.Domain.pdb
