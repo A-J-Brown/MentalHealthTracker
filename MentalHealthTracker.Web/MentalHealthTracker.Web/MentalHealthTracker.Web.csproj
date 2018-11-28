@@ -100,7 +100,9 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\mental_health_tracker.css" />
     <Content Include="Global.asax" />
+    <Content Include="images\mental_health_tracker.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -165,6 +167,8 @@
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Entry\Index.cshtml" />
     <Content Include="Views\Entry\Create.cshtml" />
+    <Content Include="Views\Entry\Statistics.cshtml" />
+    <Content Include="Views\Entry\Login.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

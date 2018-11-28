@@ -1,0 +1,115 @@
+﻿/* This is the css styling to the mental health website */
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #173b82;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: #ffff99;
+}
+
+.button {
+    height: 50px;
+    width: 100px;
+    font-size: 0.6em;
+    margin: 5px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #3c71dd;
+    padding: 20px;
+}
+
+    nav ul {
+        list-style-type: none;
+        padding: 10px;
+    }
+
+    nav li {
+        padding: 10px;
+    }
+
+a:link {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+a:hover {
+    background-color: #ffff99;
+    color: #173b82;
+    padding: 5px;
+}
+
+/* Style the content */
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #a6bff2;
+    padding: 10px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr {
+    background-color: #ffff99;
+}
+
+    tr:nth-child(even) {
+        background-color: lightyellow;
+    }
+
+.logout {
+    background-color: #ffff99;
+    color: #173b82;
+    font-size: 0.8em;
+}
+
+/* Style the footer */
+footer {
+    color: #ffff99;
+    background-color: #173b82;
+    padding: 10px;
+    text-align: center;
+}
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
